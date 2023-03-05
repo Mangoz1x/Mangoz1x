@@ -23,7 +23,7 @@ Hi there, I am a full-stack developer who primarily works with NodeJS and NextJS
 
 ## 🛠 Skills
 Javascript, HTML, CSS, MySQL, MongoDB, Bootstrap, TailwindCSS, Python, PHP
-## AI Related Knowledge
+## ML Related Knowledge
 - Object Detection
 - Image Segmentation
 - Text Classification
